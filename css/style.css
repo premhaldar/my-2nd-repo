@@ -1,0 +1,32 @@
+.header{
+    width: 700px;
+    height: 450px;
+    margin: 0 auto;
+    text-align: justify;
+    border: 5px solid red;
+}
+h1{
+    text-align: center;
+    color: #e312c4;
+    background: rgb(27, 49, 4);
+    padding: 25px 0;
+    margin: 10px 15px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 700;
+    border-radius: 15px;
+}
+p{
+    color: aliceblue;
+    background: darkslategray;
+    padding: 50px;
+    margin: 10px 15px;
+    font-size: 20px;
+    border-radius: 15px;
+    font-family: 'Times New Roman', Times, serif;
+}
+p b{
+    color: rgb(123, 17, 17);
+}
+p b span{
+    color: red;
+}
