@@ -30,6 +30,6 @@ p b{
 p b span{
     color: red;
 
-.header img{
+.header .img{
     margin: 0 auto;
 }
