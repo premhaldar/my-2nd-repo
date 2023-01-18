@@ -1,6 +1,6 @@
 .header{
     width: 700px;
-    height: 450px;
+    height: 650px;
     margin: 0 auto;
     text-align: justify;
     border: 5px solid red;
@@ -29,4 +29,7 @@ p b{
 }
 p b span{
     color: red;
+
+.header img{
+    margin: 0 auto;
 }
